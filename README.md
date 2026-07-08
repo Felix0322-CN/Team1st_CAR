@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 85efc9ed00d662887de8a4790dfc401a_a63d95537a8e11f1914a5254002afed2
-    ReservedCode1: L2kw+ajo9XhHhJlChJn06vb4DxBksB127taO/pXZNXNlHNrTINGu725iyFZ19nxaZydT0Ien+VEiyhyqBrxjry6YVyx1p3reThfuS+hLuwmFCeR6dcg4/XcwzK0DHYVtl8BtkhPE2+W7LBh6N0f1B+81II7xk0ucJ8gp3t/bQaEoDF8XZtBjpdLoef4=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 85efc9ed00d662887de8a4790dfc401a_a63d95537a8e11f1914a5254002afed2
-    ReservedCode2: L2kw+ajo9XhHhJlChJn06vb4DxBksB127taO/pXZNXNlHNrTINGu725iyFZ19nxaZydT0Ien+VEiyhyqBrxjry6YVyx1p3reThfuS+hLuwmFCeR6dcg4/XcwzK0DHYVtl8BtkhPE2+W7LBh6N0f1B+81II7xk0ucJ8gp3t/bQaEoDF8XZtBjpdLoef4=
----
-
 # First-Tier Laboratory Fire Guard
 
 基于 ROS2 + RK3588 的实验室巡检机器人系统，集成远程遥控、激光避障、自主巡检与 YOLO26 火焰/烟雾检测。
