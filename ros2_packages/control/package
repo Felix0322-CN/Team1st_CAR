@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>wechat_control</name>
+  <version>0.0.0</version>
+  <description>MQTT bridge for WeChat Mini Program</description>
+  <maintainer email="rock@todo.todo">rock</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <exec_depend>paho-mqtt</exec_depend>
+</package>

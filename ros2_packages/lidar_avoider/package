@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lidar_avoider</name>
+  <version>0.0.0</version>
+  <description>Lidar obstacle avoider</description>
+  <maintainer email="rock@todo.todo">rock</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+</package>
